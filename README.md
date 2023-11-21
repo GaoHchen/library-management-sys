@@ -1,3 +1,3 @@
 # Library management systems 
 
-written by C, Linked lists heavily used.
+written in C, Linked lists heavily used.
