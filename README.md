@@ -1,1 +1,3 @@
-# 大一C语言程序设计大作业图书馆管理系统
+# Library management systems 
+
+written by C, Linked lists heavily used.
